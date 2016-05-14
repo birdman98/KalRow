@@ -1,0 +1,10 @@
+*.log
+*.obj
+*.tlog
+KalRow/x64/Debug/vc140.pdb
+*.idb
+x64/Debug/KalRow.ilk
+*.pdb
+KalRow.VC.VC.opendb
+*.db
+KalRow.VC.db
