@@ -1,0 +1,2 @@
+# KalRow
+Podstawowy kalkulator
