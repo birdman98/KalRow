@@ -1,5 +1,5 @@
-#ifndef nazwaPliku_hpp
-#define nazwaPliku_hpp
+#ifndef Funkcje_liczace_h
+#define Funkcje_liczace_h
 
 float delta(float a, float b, float c);
 
