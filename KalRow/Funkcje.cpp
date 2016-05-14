@@ -1,4 +1,4 @@
-#include "Funkcje licz¹ce.h"
+#include "Funkcje_liczace.h"
 #include <math.h>
 
 float delta(float a, float b, float c) {
