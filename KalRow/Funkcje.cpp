@@ -1,5 +1,6 @@
 #include "Funkcje_liczace.h"
 #include <math.h>
+#include <stdlib.h>
 
 float delta(float a, float b, float c) {
 
