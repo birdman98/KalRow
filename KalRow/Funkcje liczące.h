@@ -3,4 +3,6 @@
 
 float delta(float a, float b, float c);
 
+float rownanie_liniowe (string s)
+
 #endif
